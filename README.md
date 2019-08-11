@@ -9,6 +9,7 @@ Advantages:
 - NetBSD for all archs.
 - Very performant for fast internet
 - SVN working well.
+- Large IBM fonts by default, which are large for good reading.
 - 9.x beta, running well, need some pkgin.
 
 
